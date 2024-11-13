@@ -1,0 +1,14 @@
+# Папки, созданные для сборки
+bin/
+obj/
+
+# Конфиденциальные файлы
+appsettings.Development.json
+
+# Личные настройки Visual Studio
+.vs/
+*.user
+*.suo
+
+# Папки кэширования Visual Studio Code
+.vscode/
